@@ -2,7 +2,7 @@
 
 ## 📖 Projeto
 
-O projeto foi baseado em uma video-aula da Rocketseat onde foi clonado a interface da [tesla] (https://www.youtube.com/watch?v=Mf4Se4ZGcG8&t). No projeto será utilizado a biblioteca de animações, Framer Motion.
+O projeto foi baseado em uma video-aula da Rocketseat onde foi clonado a interface da [Tesla](https://www.youtube.com/watch?v=Mf4Se4ZGcG8&t). No projeto será utilizado a biblioteca de animações, Framer Motion.
 
 ## 🧪 Tecnologias
 
