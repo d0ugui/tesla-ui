@@ -12,13 +12,13 @@ const Page: React.FC = () => {
       <ModelsWrapper>
         <div>
           {[
-            'Model One',
-            'Model Two',
-            'Model Three',
-            'Model Four',
-            'Model Five',
-            'Model Six',
-            'Model Seven'
+            'Model S',
+            'Model Y',
+            'Model 3',
+            'Model X',
+            'Solar Panels',
+            'Solar Roof',
+            'Accessories'
           ].map((modelName) => (
             <ModelSection
               key={modelName}

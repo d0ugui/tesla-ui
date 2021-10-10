@@ -1,6 +1,6 @@
 import styled from 'styled-components';
 import { motion } from 'framer-motion';
-import { LogoSVG, BurgerSVG } from './IconSVG';
+import { TeslaSVG, BurgerSVG } from './IconSVG';
 
 export const Container = styled.div`
   position: sticky;
@@ -24,7 +24,7 @@ export const Header = styled.header`
   min-height: 52px;
 `;
 
-export const Logo = styled(LogoSVG)`
+export const Logo = styled(TeslaSVG)`
   height: 17px;
   cursor: pointer;
 `;
