@@ -1,8 +1,15 @@
-<!-- <img align="center" src="src/assets/tela.png" alt="Codelandia News"> -->
+<img align="center" src="src/assets/tela.gif" alt="Tesla UI">
 
 ## 📖 Projeto
 
-O projeto foi baseado em uma video-aula da Rocketseat onde foi clonado a interface da [Tesla](https://www.youtube.com/watch?v=Mf4Se4ZGcG8&t). No projeto será utilizado a biblioteca de animações, Framer Motion.
+O projeto foi baseado em uma video-aula da Rocketseat onde foi clonado a interface da [Tesla](https://www.youtube.com/watch?v=Mf4Se4ZGcG8&t). No projeto será utilizado a biblioteca de animações, Framer Motion. Além da introdução à biblioteca de animações, framer motion, foi utilizado no projeto alguns React Hooks.
+
+- useState para fazer o gerenciamento de estados
+- useEffect para acionar odisparo de funções iniciais e acionados por dependências
+- useCallback utilizado para memoriar funções/métodos e passá-los para componentes filhos
+- useLayoutEffect
+- useRef
+- useContext utilizado para consumir um contexto pré-definido no escopo do projeto
 
 ## 🧪 Tecnologias
 
