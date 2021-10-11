@@ -1,15 +1,17 @@
-<img align="center" src="src/assets/tela.gif" alt="Tesla UI">
+<div style="text-align: center">
+  <img align="center" src="src/assets/tela.gif" alt="Tesla UI">
+</div>
 
 ## 📖 Projeto
 
-O projeto foi baseado em uma video-aula da Rocketseat onde foi clonado a interface da [Tesla](https://www.youtube.com/watch?v=Mf4Se4ZGcG8&t). No projeto será utilizado a biblioteca de animações, Framer Motion. Além da introdução à biblioteca de animações, framer motion, foi utilizado no projeto alguns React Hooks.
+O projeto foi baseado em uma aula da Rocketseat onde foi clonado a interface da [Tesla](https://www.youtube.com/watch?v=Mf4Se4ZGcG8&t). No projeto foi apresentado a biblioteca de animações em React, Framer Motion. Também foram utilizados alguns React Hooks, como:
 
-- useState para fazer o gerenciamento de estados
-- useEffect para acionar odisparo de funções iniciais e acionados por dependências
-- useCallback utilizado para memoriar funções/métodos e passá-los para componentes filhos
-- useLayoutEffect
-- useRef
-- useContext utilizado para consumir um contexto pré-definido no escopo do projeto
+**useState** para fazer o gerenciamento de estados
+**useEffect** para acionar odisparo de funções iniciais e acionados por dependências
+**useCallback** utilizado para memoriar funções/métodos e passá-los para componentes filhos
+**useLayoutEffect** é executado antes de exibir as informações na tela, ou seja, de forma síncrona
+**useRef** utilizado para acessar elementos da DOM de forma imperativa e para acessar valores dos componentes sem renderizá-los novamente
+**useContext** utilizado para consumir um contexto pré-definido no escopo do projeto
 
 ## 🧪 Tecnologias
 
